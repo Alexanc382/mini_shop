@@ -20,7 +20,7 @@ INSERT INTO products (name, description, price, image)
 VALUES (?, ?, ?, ?) 
  ''', [
     ('Красные розы','небольшой букет вечной классики', 7500,'images/red_roses.jpg'),
-    ('Желтые тюльпаны','свежие, яркие тюльпына', 6500,'images/yellow_tulips.jpeg'),
+    ('Желтые тюльпаны','свежие, яркие тюльпаны', 6500,'images/yellow_tulips.jpeg'),
     ('Синие лилии','символ элегантности, изысканности и романтики', 9000,'images/blue_lilies.jpg')
 ])
 
